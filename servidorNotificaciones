@@ -1,3 +1,5 @@
+#! /bin/sh
+
 #
 # Starting and stopping
 # - Start: `service myservice start` or `/etc/init.d/myservice start`
